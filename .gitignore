@@ -10,3 +10,7 @@
 
 # Sbt
 **/target/
+
+# Cargo
+**/Cargo.lock
+**/target/
