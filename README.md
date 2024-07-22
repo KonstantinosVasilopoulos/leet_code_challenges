@@ -10,4 +10,5 @@ A collection of LeetCode problem solutions.
 13. [Roman To Integer](./problems/roman_to_integer/roman_to_integer.md)
 20. [Valid Parenthese](./problems/valid_parentheses/valid_parentheses.md)
 21. [Merge Two Sorted Lists](./problems/merge_two_sorted_lists/merge_two_sorted_lists.md)
+27. [Remove Element](./problems/remove_element/remove_element.md)
 29. [Divide Two Integers](./problems/divide_two_integers/divide_two_integers.md)
