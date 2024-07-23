@@ -12,3 +12,4 @@ A collection of LeetCode problem solutions.
 21. [Merge Two Sorted Lists](./problems/merge_two_sorted_lists/merge_two_sorted_lists.md)
 27. [Remove Element](./problems/remove_element/remove_element.md)
 29. [Divide Two Integers](./problems/divide_two_integers/divide_two_integers.md)
+55. [Jump Game](./problems/jump_game/jump_game.md)
