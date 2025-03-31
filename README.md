@@ -16,3 +16,4 @@ A collection of LeetCode problem solutions.
 29. [Divide Two Integers](./problems/divide_two_integers/divide_two_integers.md)
 38. [Count and Say](./problems/count_and_say/count_and_say.md)
 55. [Jump Game](./problems/jump_game/jump_game.md)
+56. [Merge Intervals](./problems/merge_intervals/merge_intervals.md)
